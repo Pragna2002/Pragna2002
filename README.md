@@ -59,7 +59,7 @@
 <div align=center>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragna2002&show_icons=true&theme=react&locale=en&layout=compact" alt="pragna2002" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pragna2002&show_icons=true&locale=en&layout=compact" alt="pragna2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragna2002&" alt="pragna2002" /></p>
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Pragna2002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
